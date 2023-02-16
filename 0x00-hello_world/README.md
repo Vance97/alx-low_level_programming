@@ -34,7 +34,7 @@ The files in this repository constitute a project in progress and as such, you a
 ```bash
 
 # Clone this repository
-$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-system_engineering-devops.git
+$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-low_level_programming.git
 
 # Update your git identity
 $ git config --global user.email "mail@example.com"
