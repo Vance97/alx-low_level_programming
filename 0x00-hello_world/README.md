@@ -1,24 +1,61 @@
+
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://images.squarespace-cdn.com/content/v1/5f064fad5065bf4b98603cbe/1470eb72-6bc8-44da-944d-cd43a2c9d162/ALX+PNG.png" alt="ALX" width="200"></a>
+  <br>
+  African Leadership X (ALX) 2023
+  <br>
+</h1>
+
+<h4 align="center">Digital Transformation is the next Industrial Revolution</h4>
+
+<p align="center">
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+         alt="Gitter">
+  </a>
+  <a href="#">
+      <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
+  </a>
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/no-ragrets.svg">
+  </a>
+</p>
+
+<h1 align="center">
+  <a href="#"><img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="200"></a>
+</h1>
+
+
+## About
+
+The files in this repository constitute a project in progress and as such, you are not allowed to contribute without the consent of the author. You may, however, fork, clone or download a copy of it and test it separately. Use the following commands to get started:
+
+```bash
+
+# Clone this repository
+$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-system_engineering-devops.git
+
+# Update your git identity
+$ git config --global user.email "mail@example.com"
+$ git config --global user.name "username"
+
+# Go into repository
+$ cd alx-system_engineering-devops
+
+#The rest is history mate. Hack away!
+```
+
+> **Note**
+> that Vance Muchongo reserves authorship of this repository as of 01 February 2023.
+
+
+
+
+
+
 ## 0x00. C - Hello, World
 
-Introduction to programming and first set of assignments at Holberton School
-
-**What you should learn from this project**
-
-    At the end of this project you are expected to be able to explain to anyone, without the help of Google:
-
-* Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
-* Who invented C
-* Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
-* What happens when you type gcc main.c
-* What is an entry point
-* What is main
-* How to print text using printf, puts and putchar
-* How to get the size of a specific type using the unary operator sizeof
-* How to compile using gcc
-* What is the default program name when compiling with gcc
-* What is the official Holberton C coding style and how to check your code with betty-style
-* How to find the right header to include in your source code when using a standard library function
-* How does the main function influence the return value of the program
 
 ### Exercises
 
