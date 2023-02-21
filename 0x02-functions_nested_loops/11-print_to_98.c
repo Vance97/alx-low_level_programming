@@ -2,7 +2,7 @@
 #include "6-abs.c"
 #include <stdio.h>
 
-void print_to_98(int n) //prints numbers from 0 to 98
+void print_to_98(int n) /*prints numbers from 0 to 98*/
 {
 	int i;
 
