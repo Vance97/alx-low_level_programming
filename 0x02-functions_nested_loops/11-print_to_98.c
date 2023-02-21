@@ -2,8 +2,7 @@
 #include "6-abs.c"
 #include <stdio.h>
 
-/*A function that prints all natural numbers from n to 98, followed by a new line.*/
-void print_to_98(int n)
+void print_to_98(int n) //prints numbers from 0 to 98
 {
 	int i;
 
