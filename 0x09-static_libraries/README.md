@@ -1,41 +1,51 @@
-# C - Static libraries
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://images.squarespace-cdn.com/content/v1/5f064fad5065bf4b98603cbe/1470eb72-6bc8-44da-944d-cd43a2c9d162/ALX+PNG.png" alt="ALX" width="200"></a>
+  <br>
+  African Leadership X (ALX) 2023
+  <br>
+</h1>
 
-In this project, I learned what static libraries are and practiced creating and
-using them with `ar`, `ranlib`, and `nm`.
+<h4 align="center">Digital Transformation is the next Industrial Revolution</h4>
 
-## Tests :heavy_check_mark:
+<p align="center">
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+         alt="Gitter">
+  </a>
+  <a href="#">
+      <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
+  </a>
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/no-ragrets.svg">
+  </a>
+</p>
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+<h1 align="center">
+  <a href="#"><img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="200"></a>
+</h1>
 
-## Tasks :page_with_curl:
 
-* **0. A library is not a luxury but one of the necessities of life**
-  * [libholberton.a](./libholberton.a): C Static library containing all the functions
-  listed below:
-    * `int _putchar(char c);`
-    * `int _islower(int c);`
-    * `int _isalpha(int c);`
-    * `int _abs(int n);`
-    * `int _isupper(int c);`
-    * `int _isdigit(int c);`
-    * `int _strlen(char *s);`
-    * `void _puts(char *s);`
-    * `char *_strcpy(char *dest, char *src);`
-    * `int _atoi(char *s);`
-    * `char *_strcat(char *dest, char *src);`
-    * `char *_strncat(char *dest, char *src, int n);`
-    * `char *_strncpy(char *dest, char *src, int n);`
-    * `int _strcmp(char *s1, char *s2);`
-    * `char *_memset(char *s, char b, unsigned int n);`
-    * `char *_memcpy(char *dest, char *src, unsigned int n);`
-    * `char *_strchr(char *s, char c);`
-    * `unsigned int _strspn(char *s, char *accept);`
-    * `char *_strpbrk(char *s, char *accept);`
-    * `char *_strstr(char *haystack, char *needle);`
+## About
 
-  * [holberton.h](./holberton.h): Header file containing the prototypes of all functions
-  included in `libholberton.a`.
+The files in this repository constitute a project in progress and as such, you are not allowed to contribute without the consent of the author. You may, however, fork, clone or download a copy of it and test it separately. Use the following commands to get started:
 
-* **1. Without libraries what have we? We have no past and no future**
-  * [create_static_lib.sh](./create_static_lib.sh): Bash script that creates a static
-  library called `liball.a` from all the `.c` files in the current directory.
+```bash
+
+# Clone this repository
+$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-low_level_programming.git
+
+# Update your git identity
+$ git config --global user.email "mail@example.com"
+$ git config --global user.name "username"
+
+# Go into repository
+$ cd alx-system_engineering-devops
+
+#The rest is history mate. Hack away!
+```
+
+> **Note**
+> that Vance Muchongo reserves authorship of this repository as of 01 February 2023.
+
+
